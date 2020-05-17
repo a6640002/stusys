@@ -1,0 +1,3 @@
+/home/li/code/stusys/CMakeFiles/rebuild_cache.dir
+/home/li/code/stusys/CMakeFiles/edit_cache.dir
+/home/li/code/stusys/CMakeFiles/main.dir
